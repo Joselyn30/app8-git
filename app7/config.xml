@@ -5,10 +5,10 @@
      id    = "com.phonegap.example7"  
      version  = "1.0.0">  
 	 
-   <name> app7 MOSTRAR APLICACIONES </name>  
+   <name> app7 Deslizar hacia la izquierda y a la derecha </name>  
    
    <description>  
-     Aplicacion que mostrara y ejecutara 3 aplicaciones anteriores
+     Aplicacion que realiza el swipe o deslizamiento en el dispositivo 
    </description>  
    
    <author href="https://build.phonegap.com" email="jostani01@hotmail.com">  
